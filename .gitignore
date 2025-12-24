@@ -1,0 +1,3 @@
+guide/.vitepress/dist
+guide/.vitepress/cache
+node_modules
