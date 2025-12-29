@@ -13,12 +13,12 @@ cd fossasia-summit-guide
 ```sh
 yarn install
 ```
-3. Run the development server. Website should be live at http://localhost:5173
+3. Run the development server. Website should be live at `http://localhost:5173`
 ```sh
 yarn docs:dev
 ```
 4. Make necessary changes in `guide` folder where the content is present.
-5. Build and preview the website at http://localhost:4173
+5. Build and preview the website at `http://localhost:4173`
 ```sh
 yarn docs:build
 yarn docs:preview
