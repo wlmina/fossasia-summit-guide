@@ -24,10 +24,10 @@ export default defineConfig({
             ]
           },
           {
-            text: 'Arrival at Airport', link: '/guide/03-arrival.md',
+            text: 'Arrival at Airport', link: '/guide/03-arrival',
             collapsed: true,
             items: [
-              { text: 'Suvarnabhumi Airport (BKK)', link: '/guide/03-arrival/#suvarnabhumi-airport-bkk' },
+              { text: 'Suvarnabhumi Airport (BKK)', link: '/guide/03-arrival#suvarnabhumi-airport-bkk' },
               { text: 'Don Mueang Airport (DMK)', link: '/guide/03-arrival#don-mueang-airport-dmk' }
             ]
           },
