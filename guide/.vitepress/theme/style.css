@@ -137,3 +137,66 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+
+/**
+ * Hide "On This Page column
+ */
+
+.aside {
+  display: none !important;
+}
+
+/**
+ * Custom CSS for food card
+ */
+/* Food card container */
+.food-card {
+  display: flex;
+  gap: 20px;
+  padding: 16px;
+  margin: 20px 0;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  background: var(--vp-c-bg-soft);
+  align-items: flex-start;
+}
+
+/* Image: responsive + left on desktop */
+.food-img {
+  width: clamp(120px, 20vw, 180px);
+  height: auto;
+  border-radius: 10px;
+  flex-shrink: 0;
+}
+
+/* Content */
+.food-content {
+  flex: 1;
+}
+
+.food-content h3 {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+}
+
+.food-content ul {
+  margin: 0.25rem 0 0 1.2rem;
+}
+
+/* Mobile layout */
+@media (max-width: 640px) {
+  .food-card {
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+  }
+
+  .food-img {
+    width: min(80%, 260px);
+    margin-bottom: 8px;
+  }
+
+  .food-content {
+    width: 100%;
+  }
+}
