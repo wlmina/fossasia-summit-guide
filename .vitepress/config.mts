@@ -91,6 +91,14 @@ export default defineConfig({
           { text: 'Emergency Numbers', link: '/guide/12-emergency' }
         ]
       },
+      {
+        text: 'Want to Help?',
+        items: [
+          { text: '<i class="fa-brands fa-github"></i> Contribute to the guide', link: 'https://github.com/ishanmitra/fossasia-summit-guide' },
+          { text: '<i class="fa-solid fa-pen-to-square"></i> Editing guide', link: 'https://github.com/ishanmitra/fossasia-summit-guide' },
+          { text: '<i class="fa-brands fa-whatsapp"></i> Get involved', link: 'https://chat.whatsapp.com/JPb0tgjxuOYERRZa6KRLuy' },
+        ]
+      },
     ],
     socialLinks: [
       {
