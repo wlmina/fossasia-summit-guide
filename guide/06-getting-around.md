@@ -14,7 +14,9 @@ The **BTS Skytrain** is the most convenient way to travel around the city, avoid
 
 **EMV Contactless (Tap-to-Pay):** The **MRT**, **ARL** (Airport Rail Link), and **SRT** systems support EMV contactless payments — tap your Visa or Mastercard credit/debit card directly at ticket gates (look for the contactless wave symbol). This is the same tap-to-pay technology used worldwide.
 
-**BTS Payment:** The BTS does not currently support EMV. Tickets can be purchased at machines or counters using cash (coins and banknotes up to 100 THB). Newer BTS ticket machines also accept **QR payments**.
+**Rabbit Card:** Supported by lines operated by the BTS company, namely the **BTS** as well as the MRT Pink and Yellow lines (the MRT lines, but not the BTS, also support EMV). See the Payments page for more info.
+
+**Cash/QR:** Otherwise, MRT and BTS stations provide ticket machines where you can buy one-time tickets with cash. Coins are always accepted, while only certain machines take banknotes – check to see if the machine has a banknote slot. Newer machines also accept QR code payments; BTS machines accept AliPay and WeChat Pay alongside PromptPay. If you cannot use the machines, you can also purchase tickets from the ticket counters.
 
 For real-time updates, download the **BKK Rail App** (available on Google Play and the App Store).
 
@@ -42,9 +44,9 @@ A map of bike-sharing station locations is available [here](https://www.google.c
 
 ## Buses
 
-Bangkok's bus network is extensive and inexpensive, with routes available on Google Maps and Moovit. However, buses are affected by traffic conditions. Fares are paid in cash onboard.
+Bangkok's bus network is extensive and inexpensive, with routes available on Google Maps and Moovit. However, buses are affected by traffic conditions. Fares are usually paid in cash onboard, though EMV card payments are also accepted in buses run by the BMTA (as opposed to Thai Smile).
 
-A bus stop with multiple routes is located **directly in front of the venue**.
+A bus stop with multiple routes is located **directly in front of the venue**. To see detailed information about bus routes, stops and real-time bus locations, download the **ViaBus** app.
 
 ## Tuk Tuk
 
